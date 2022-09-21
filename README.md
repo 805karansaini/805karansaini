@@ -6,7 +6,7 @@ I am Karan Saini, and I am from Rohtak, Haryana, India. I have recently attained
 [![Instagram Badge](https://img.shields.io/badge/-notxkaran-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/notxkaran/)](https://www.instagram.com/notxkaran/)
 [![Gmail Badge](https://img.shields.io/badge/-805karansaini@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:805karansaini@gmail.com)](mailto:805karansaini@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://805karansaini.github.io/)](https://805karansaini.github.io/)
-[![LeetCode Badge](https://img.shields.io/badge/-notxkaran-darkred?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/notxkaran/)](https://leetcode.com/notxkaran/)
+[![LeetCode Badge](https://img.shields.io/badge/-notxkaran-black?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/notxkaran/)](https://leetcode.com/notxkaran/)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=805karansaini&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
